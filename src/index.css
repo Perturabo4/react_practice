@@ -19,6 +19,7 @@ body {
 
 .post {
   display: flex;
+  margin: 20px 0;
   padding: 15px;
   border: 1px solid blue;
   justify-content: space-between;
